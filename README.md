@@ -5,3 +5,6 @@ Split MegaMan Frame Challenge Using Html And CSS
 
 ### Demo
 https://rajaaabdelaati.github.io/Split-MegaMan-Frame/
+
+### Design Website Link 
+https://elzero.org/frontend-split-megaman-frame/
